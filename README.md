@@ -1,7 +1,5 @@
 # Hi 👋, I'm Nathan Attoh
 
-### A Python developer
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=attohx" alt="attohx" /></a> </p>
 
 - 🔭 I'm currently working on **Mobi Mama**
